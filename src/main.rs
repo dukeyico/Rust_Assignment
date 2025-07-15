@@ -2,7 +2,6 @@ fn main(){
 // Task 1: List all the data types available in Rust
 
 // Integer types
-use std::collections::linked_list;
 let a: i8 = 1;
 let b: i16 = 2;
 let c: i32 = 3;
@@ -29,7 +28,6 @@ let p: char = 'R';
 
 // String types
 let q = "Hello";           // &str
-let r = String::from("Hi"); // String
 
 // Array type
 let s = [1, 2, 3];
