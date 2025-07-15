@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\RustProject\target\debug\deps\libanstyle_wincon-ca4f4fe8561a0f0c.rmeta: C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\console.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lockable.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\stream.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\windows.rs
+
+C:\Users\Dell\Desktop\RustProject\target\debug\deps\libanstyle_wincon-ca4f4fe8561a0f0c.rlib: C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\console.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lockable.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\stream.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\windows.rs
+
+C:\Users\Dell\Desktop\RustProject\target\debug\deps\anstyle_wincon-ca4f4fe8561a0f0c.d: C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\console.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lockable.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\stream.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\windows.rs
+
+C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lib.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\console.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\lockable.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\stream.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.2\src\windows.rs:
